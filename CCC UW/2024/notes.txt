@@ -1,0 +1,34 @@
+q1
+
+q2:
+
+1. take in each string 
+2. check letter 1 if heavy by checking against all letters in string. if so, check if letter is light same process. if letter is heavy, then return false
+if light, continue algorithm and if terminates, return true
+
+1. check if each letter is
+
+
+q3:
+each element in b must be in a
+has to be in increasing order
+process from left to right
+
+ 1 2 3 4 5 6
+ 1 4 4 5 6 6
+
+ swipe left 1 3
+
+ 1 4 4 4 5 6
+
+ swipe left 3 4
+
+ 1 4 4 5 5 6
+
+ swipe left 4 5
+
+ 1 4 4 5 6 6 
+
+ right 
+
+ 

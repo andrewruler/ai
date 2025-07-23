@@ -1,0 +1,9 @@
+smallest A with the largest Y
+large B with small Y 
+
+vice versa
+
+add the vert height vs sum length
+whichever is less, use that one?
+
+sol is to find the smallest out of the heights/bases, and use the largest of the smallest

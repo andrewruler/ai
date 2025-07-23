@@ -1,0 +1,173 @@
+1744505659089	geckodriver	INFO	Listening on 127.0.0.1:63239
+1744505669246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilelg5Yhu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1744505669977	Marionette	INFO	Marionette enabled
+1744505670057	Marionette	INFO	Listening on port 63485
+WebDriver BiDi listening on ws://127.0.0.1:63240
+Read port: 63485
+1744505670399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://67d8cda9-f882-40f5-88c7-41b613fc68b1/extension-loader.js, line 1: TypeError: error loading dynamically imported module: moz-extension://67d8cda9-f882-40f5-88c7-41b613fc68b1/content.js
+JavaScript error: moz-extension://67d8cda9-f882-40f5-88c7-41b613fc68b1/extension-loader.js, line 1: TypeError: error loading dynamically imported module: moz-extension://67d8cda9-f882-40f5-88c7-41b613fc68b1/content.js
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.bbystatic.com/shop/account-menu/dist/client/client-99d362d3844b77689308d4f81f00be03.mjs, line 1: ChunkLoadError: Loading chunk 368 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/account-menu/dist/client/368-99d362d3844b77689308d4f81f00be03.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/cart-icon/dist/client/client-087c69db6eb4e1b6269358f7f996932e.mjs, line 1: ChunkLoadError: Loading chunk 69 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/cart-icon/dist/client/69-087c69db6eb4e1b6269358f7f996932e.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/product-title/dist/client/client-95b88e8376afa860c19bd93eb0917519.mjs, line 1: ChunkLoadError: Loading chunk 199 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/product-title/dist/client/199-95b88e8376afa860c19bd93eb0917519.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/location-tooltip/dist/client/client-a6293502c94234dd0be7ce055373aad3.mjs, line 1: ChunkLoadError: Loading chunk 818 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/location-tooltip/dist/client/818-a6293502c94234dd0be7ce055373aad3.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/interruptions-manager/dist/client/client-860db455b19cf165bc597e400cd3be82.mjs, line 1: ChunkLoadError: Loading chunk 542 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/interruptions-manager/dist/client/542-860db455b19cf165bc597e400cd3be82.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/breadcrumb/dist/client/client-a0737582d64f227dda5d5a6dbbb91aa5.mjs, line 1: ChunkLoadError: Loading chunk 789 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/breadcrumb/dist/client/789-a0737582d64f227dda5d5a6dbbb91aa5.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/brix/7.11.35/js/brixRemoteEntry.js, line 1: ChunkLoadError: Loading chunk 5572 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/brix/7.11.35/js/5572.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/user-generated-content/ratings-and-reviews/dist/client/client-8e3da65d133939ec29a2b693f27ce43a.mjs, line 1: ChunkLoadError: Loading chunk 499 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/user-generated-content/ratings-and-reviews/dist/client/499-8e3da65d133939ec29a2b693f27ce43a.mjs)
+JavaScript error: https://assets.bbystatic.com/pricing/price-change-notification/dist/client/client-68d436e74d9ee73fca07058bab8d292c.mjs, line 1: ChunkLoadError: Loading chunk 654 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/pricing/price-change-notification/dist/client/654-68d436e74d9ee73fca07058bab8d292c.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/alert/dist/client/alert-client-8d582327346d8e45513ef79f5e96ecb3.mjs, line 1: ChunkLoadError: Loading chunk 682 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/alert/dist/client/alert-682-8d582327346d8e45513ef79f5e96ecb3.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/recs/product-carousels/dist/client/client-8326e38b58a7ad64b7b205c3999d48cd.mjs, line 1: ChunkLoadError: Loading chunk 718 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/recs/product-carousels/dist/client/718-8326e38b58a7ad64b7b205c3999d48cd.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/footer/dist/client/client-a5c9df1f63fc1e2aefc2b6cb448d0642.mjs, line 1: ChunkLoadError: Loading chunk 430 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/footer/dist/client/430-a5c9df1f63fc1e2aefc2b6cb448d0642.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/evoc/talk-to-us/dist/client/evoc-talk_to_us-v1-0_24_2_remote_entry.js, line 1: ChunkLoadError: Loading chunk 8216 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/evoc/talk-to-us/dist/client/8216-5dca2be21db9d85c9c5d4103a64bdfaa.js)
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: unreachable code after return statement
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=0c8ebc83-1ed5-7511-7afe-63d7b3ca1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/7163-0fb8333812487d176d2100c6d8fd0010.js, line 2: TypeError: f is not a function
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/7163-0fb8333812487d176d2100c6d8fd0010.js, line 2: TypeError: f is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1744505869711	geckodriver	INFO	Listening on 127.0.0.1:49845
+1744505877150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile0SamEO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1744505877653	Marionette	INFO	Marionette enabled
+1744505877703	Marionette	INFO	Listening on port 49946
+WebDriver BiDi listening on ws://127.0.0.1:49846
+Read port: 49946
+1744505877918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://67d8cda9-f882-40f5-88c7-41b613fc68b1/extension-loader.js, line 1: TypeError: error loading dynamically imported module: moz-extension://67d8cda9-f882-40f5-88c7-41b613fc68b1/content.js
+JavaScript error: moz-extension://67d8cda9-f882-40f5-88c7-41b613fc68b1/extension-loader.js, line 1: TypeError: error loading dynamically imported module: moz-extension://67d8cda9-f882-40f5-88c7-41b613fc68b1/content.js
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/7163-0fb8333812487d176d2100c6d8fd0010.js, line 2: TypeError: f is not a function
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/7163-0fb8333812487d176d2100c6d8fd0010.js, line 2: TypeError: f is not a function
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 687: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.sys.mjs, line 687: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/DPdAcMMWjrlhTr6yATjpq-RSGOddA_iHYEDsDNEXX-E.js line 2 > eval line 3243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.bestbuy.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22bestbuy.com%22,%22topUrl%22:%22www.bestbuy.com%22,%22version%22:%225_35_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.bestbuy.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22bestbuy.com%22,%22topUrl%22:%22www.bestbuy.com%22,%22version%22:%225_35_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.bestbuy.com&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22bestbuy.com%22,%22topUrl%22:%22www.bestbuy.com%22,%22version%22:%225_35_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: unreachable code after return statement
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: unreachable code after return statement
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/kNV3b4r55GX7/JWwaMEI/YFoKIT/ApX0g?v=18d8e7cb-cc4d-d386-7d40-e002a93b1721, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestbuy.com/n6G6fP/RberNG/egvf/1ehzYn/tz2PE/S3V3b4r55Gcz9Xau/UFoWMEI/RB8CYC/IsHTg, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/federation/mf-dep-2022-vendors-_yarn___virtual___react-dom-virtual-7a1eb688dc_0_cache_react-dom-npm-18_2_0-0db738f3e-bb4578-81329523f002fc6a4677.js, line 2: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/7163-0fb8333812487d176d2100c6d8fd0010.js, line 2: TypeError: f is not a function
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/7163-0fb8333812487d176d2100c6d8fd0010.js, line 2: TypeError: f is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

@@ -1,0 +1,10 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe"
+
+Next:
+1. Automatically save all csv data into sheets, appending new articles to nav_top_subsection
+2. Next, create algo that finds all the categories, clicking into them
+3. Make sure to add link to sheets
+4. Run algorithm periodically
+5. Then, have algorithm be able to run at all times headless, parallel 
+
+LEARN NOW

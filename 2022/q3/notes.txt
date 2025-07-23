@@ -1,0 +1,10 @@
+each element is a good sample
+can iterate through, determine which element starts to differ
+just add iterator each time?
+1+2+3
+
+for case 1:
+subtract k from n = amount to be added
+alternate until this var diff = 0
+alternate = add 2
+same = add 1

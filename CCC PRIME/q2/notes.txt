@@ -1,0 +1,7 @@
+length of the pattern
+c modulo,
+determine its letter after
+
+do a for loop iterating through length of string, then subtract remaining until reach index
+
+take the nums, add them all, modulo c by that. iterate through, until find 

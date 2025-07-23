@@ -1,0 +1,30 @@
+6 8 6 5 8 6
+6 6 6 8 5 5
+
+elements cannot switch positions
+
+use recursion. attempt right swipes. if hit valuable element, attempt right swipe, continue. 
+
+to determine if valuable:
+put elements into segments
+iterate again, determine closest proximity ele to seg
+
+determine order of operations:
+last on segs that have at least one element in place
+6 6 8 6 8 6
+6 6 8 8 6 8
+
+
+2023
+
+q1 
+
+create variable keeps track of meters
+start with 3 meters. 
+set variable lastPainted. 
+if true, then add 2
+
+for second column, check a[i-1/2(arr.length)]. 
+set variable touchingTop, int {0,1}
+if painted, add 2, 
+if touchingtop, subtract 1

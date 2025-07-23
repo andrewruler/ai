@@ -1,0 +1,10 @@
+find contiguous segments, with l and r boundary
+(start with index after last seg) check each j in a, check if match b[l]
+swipe left to l
+
+go backwards
+iterate j, check if a[j] = b[r]
+swipe right to r
+
+and then while loop until finished based on boolean flag?
+
